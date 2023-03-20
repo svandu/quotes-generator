@@ -12,3 +12,13 @@ Users should be able to:
 
 - Click on New Quote to generate new quotes with their author name.
 
+### Built with
+
+- Semantic HTML5 markup
+- CSS
+- Javascript
+
+### Links
+
+- Repository URL: [Repositiory Link](https://github.com/svandu/quotes-generator)
+- Live Site URL: [Live site Link](https://quotes-generator-eight.vercel.app/)
