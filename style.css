@@ -42,12 +42,12 @@ body {
 }
 
 .main-container .text-area {
-    font-size: 1.5rem;
+    font-size: 1.1  rem;
     line-height: 1.5;
 }
 
-.main-container .person {
-    font-size: 1.6rem;
+.main-container .author{
+    font-size: 1.4rem;
     color: red;
     text-transform: uppercase;
     margin-top: 20px;
@@ -56,10 +56,11 @@ body {
 .button-area button {
     background-color: #262626; 
     color: #fff;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     padding: 10px 15px;
     margin-top: 20px;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .button-area button:active {
